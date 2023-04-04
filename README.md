@@ -1,2 +1,2 @@
-# Backend Challenges boilerplate - package.json
-[![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-npm)](https://repl.it/github/freeCodeCamp/boilerplate-npm)
+# Backend Challenges boilerplate
+FreeCodeCamp project to practice Node, Express, and MongoDB.
